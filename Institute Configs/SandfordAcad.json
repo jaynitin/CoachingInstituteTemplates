@@ -1,0 +1,115 @@
+{
+  "instituteName": "Sandford Academy",
+  "tagline": "Integrated preparation for JEE, NEET & board examinations",
+  "city": "Kolkata",
+  "logoText": "SA",
+  "theme": {
+    "colorPrimary": "#293B63",
+    "colorPrimaryDark": "#18243F",
+    "colorAccent": "#D99A52",
+    "colorHighlight": "#C85C55",
+    "colorInk": "#202833",
+    "colorPaper": "#F7F4EC",
+    "colorMuted": "#687383",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "JEE • NEET • BOARDS",
+    "rankExam": "Engineering & Medical Entrance Preparation",
+    "headline": "Build the foundation. Master the syllabus. Aim higher.",
+    "subhead": "Structured preparation for JEE, NEET and board examinations with live online classes, dedicated learning resources, regular academic support and a student-focused environment.",
+    "stats": [
+      { "label": "Student Rating", "value": "4.2 / 5" },
+      { "label": "NEET Program", "value": "2 Years" },
+      { "label": "Class Format", "value": "Online + Offline" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "neet",
+      "name": "NEET UG",
+      "duration": "2 Years",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    },
+    {
+      "id": "jee",
+      "name": "JEE Main + Advanced",
+      "duration": "Course dependent",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "boards",
+      "name": "Class 11 & 12 Board Preparation",
+      "duration": "Academic Year",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology"
+      ]
+    },
+    {
+      "id": "it",
+      "name": "IT Training",
+      "duration": "Course dependent",
+      "batchSize": "Course dependent",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Information Technology",
+        "Computer Fundamentals"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Sandford Academy Faculty",
+      "subject": "Physics",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Sandford Academy Faculty",
+      "subject": "Chemistry",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Sandford Academy Faculty",
+      "subject": "Mathematics & Biology",
+      "qualification": "Experienced Teaching Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "NEET Preparation",
+      "quote": "The academy provides structured preparation and learning resources to help students stay consistent with their NEET studies."
+    },
+    {
+      "name": "Student Review",
+      "result": "Academic Preparation",
+      "quote": "The combination of classroom support, study resources and regular academic guidance creates a focused learning environment."
+    }
+  ],
+  "contact": {
+    "address": "Action Area III, Newtown, Chhapna, Kolkata, West Bengal 700135",
+    "phone": "+91 97497 81388",
+    "whatsapp": "+91 97497 81388",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Sandford+Academy+Action+Area+III+Newtown+Kolkata+700135&output=embed"
+  }
+}

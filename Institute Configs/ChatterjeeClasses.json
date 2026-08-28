@@ -1,0 +1,105 @@
+{
+  "instituteName": "Chatterjee's Classes",
+  "tagline": "Focused academic coaching for students in Kolkata",
+  "city": "Kolkata",
+  "logoText": "CC",
+  "theme": {
+    "colorPrimary": "#24533F",
+    "colorPrimaryDark": "#16372A",
+    "colorAccent": "#D49A3A",
+    "colorHighlight": "#A64B32",
+    "colorInk": "#202B27",
+    "colorPaper": "#F7F3E8",
+    "colorMuted": "#68756E",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "ACADEMICS • TUTORIALS",
+    "rankExam": "School & Competitive Preparation",
+    "headline": "Understand the concepts. Strengthen the fundamentals. Move ahead.",
+    "subhead": "Structured classroom learning, study material, doubt-clearing support, regular assessments and mock tests designed to help students build stronger academic foundations.",
+    "stats": [
+      { "label": "Class Format", "value": "Online + Offline" },
+      { "label": "Learning Support", "value": "Doubt Clearing" },
+      { "label": "Assessment", "value": "Regular Mock Tests" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "school",
+      "name": "School Academic Coaching",
+      "duration": "Academic Year",
+      "batchSize": "Limited batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "English"
+      ]
+    },
+    {
+      "id": "competitive",
+      "name": "Competitive Exam Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Limited batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "General Knowledge",
+        "English"
+      ]
+    },
+    {
+      "id": "tutorial",
+      "name": "Subject-Wise Tutorials",
+      "duration": "Course dependent",
+      "batchSize": "Limited batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "English",
+        "Other Academic Subjects"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Chatterjee's Classes Faculty",
+      "subject": "Academic & Competitive Preparation",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Subject Faculty",
+      "subject": "Mathematics & Science",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Subject Faculty",
+      "subject": "English & General Studies",
+      "qualification": "Experienced Teaching Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "Academic Preparation",
+      "quote": "Regular assessments and doubt-clearing sessions help students stay consistent with their preparation."
+    },
+    {
+      "name": "Student Review",
+      "result": "Tutorial Support",
+      "quote": "The learning environment focuses on understanding concepts and giving students additional support when they need it."
+    }
+  ],
+  "contact": {
+    "address": "E.P. 17/A, Pallisree, Sreebhumi, Patipukur, South Dum Dum, Kolkata, West Bengal 700048",
+    "phone": "Contact institute",
+    "whatsapp": "Contact institute",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Chatterjee's+Classes+E.P.+17%2FA+Pallisree+Sreebhumi+Patipukur+Kolkata+700048&output=embed"
+  }
+}

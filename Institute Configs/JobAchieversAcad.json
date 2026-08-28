@@ -1,0 +1,104 @@
+{
+  "instituteName": "Job Achievers Academy",
+  "tagline": "Focused coaching for government & competitive exams in Kolkata",
+  "city": "Kolkata",
+  "logoText": "JA",
+  "theme": {
+    "colorPrimary": "#123B4A",
+    "colorPrimaryDark": "#082630",
+    "colorAccent": "#D6A84F",
+    "colorHighlight": "#167D7F",
+    "colorInk": "#17252B",
+    "colorPaper": "#F5F7F3",
+    "colorMuted": "#61727A",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "WBCS • SSC • RAILWAY",
+    "rankExam": "Competitive Government Exams",
+    "headline": "Prepare smarter. Compete harder. Achieve your career goal.",
+    "subhead": "Concept-focused coaching, shortcut techniques, regular mock tests, and personal guidance for aspirants preparing for government and competitive examinations.",
+    "stats": [
+      { "label": "Established", "value": "2014" },
+      { "label": "Class Modes", "value": "Online + Offline" },
+      { "label": "Student Rating", "value": "4.8 / 5" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "wbcs",
+      "name": "WBCS & WBPSC",
+      "duration": "1 Year 6 Months",
+      "batchSize": "Multiple batches",
+      "fee": "₹80,000",
+      "subjects": ["General Studies", "History", "Geography", "Polity", "Current Affairs", "Mathematics"]
+    },
+    {
+      "id": "ssc-railway",
+      "name": "SSC & Railway",
+      "duration": "1 Year",
+      "batchSize": "Multiple batches",
+      "fee": "₹72,000",
+      "subjects": ["Mathematics", "General Knowledge", "Reasoning", "Current Affairs"]
+    },
+    {
+      "id": "banking",
+      "name": "Banking & Insurance",
+      "duration": "6 Months",
+      "batchSize": "Multiple batches",
+      "fee": "₹32,000",
+      "subjects": ["Quantitative Aptitude", "Reasoning", "English", "General Awareness"]
+    },
+    {
+      "id": "tet",
+      "name": "TET & CTET",
+      "duration": "1 Year",
+      "batchSize": "Multiple batches",
+      "fee": "₹52,000",
+      "subjects": ["Child Development", "Mathematics", "English", "Environmental Studies"]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Amit Dasgupta",
+      "subject": "Competitive Exam Preparation",
+      "qualification": "Senior Faculty"
+    },
+    {
+      "name": "Job Achievers Faculty",
+      "subject": "Mathematics & Reasoning",
+      "qualification": "Experienced Competitive Exam Faculty"
+    },
+    {
+      "name": "Job Achievers Faculty",
+      "subject": "General Studies & Current Affairs",
+      "qualification": "Experienced Competitive Exam Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Santosh",
+      "result": "Competitive Exam Preparation",
+      "quote": "A patient teaching approach that makes even the basics of competitive exams easier to understand."
+    },
+    {
+      "name": "Pranti Barman",
+      "result": "WBCS Preparation",
+      "quote": "The academy focuses on concepts and shortcuts, with regular online and offline mock tests."
+    },
+    {
+      "name": "Ritick Maity",
+      "result": "SSC Preparation",
+      "quote": "A good academy for Mathematics and General Knowledge preparation for SSC."
+    }
+  ],
+  "contact": {
+    "address": "241/C, Diamond Harbour Road, Panchanantala, Near DM Hospital, Thakurpukur, Kolkata, West Bengal 700063",
+    "phone": "+91 79801 25103",
+    "whatsapp": "+91 79801 25103",
+    "email": "jobachieversacademy@gmail.com",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Job+Achievers+Academy+241C+Diamond+Harbour+Road+Thakurpukur+Kolkata&output=embed"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "instituteName": "Dedication to Biology",
+  "tagline": "Focused Biology, Chemistry & NEET preparation in Durganagar",
+  "city": "Kolkata",
+  "logoText": "DTB",
+  "theme": {
+    "colorPrimary": "#174A45",
+    "colorPrimaryDark": "#0D302D",
+    "colorAccent": "#D8A84E",
+    "colorHighlight": "#35A6A0",
+    "colorInk": "#1E2928",
+    "colorPaper": "#F2F7F5",
+    "colorMuted": "#647571",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "NEET • BIOLOGY • CHEMISTRY",
+    "rankExam": "Medical Entrance & Science Education",
+    "headline": "Understand biology. Strengthen your concepts. Prepare with purpose.",
+    "subhead": "Focused coaching in Biology and Chemistry with regular evaluations, doubt-clearing sessions, study resources and dedicated guidance for serious aspirants.",
+    "stats": [
+      { "label": "Established", "value": "2010" },
+      { "label": "Justdial Rating", "value": "5.0 / 5" },
+      { "label": "Ratings", "value": "59+" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "neet",
+      "name": "NEET UG Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "Biology Coaching",
+      "duration": "Academic Year",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Botany",
+        "Zoology",
+        "Human Biology",
+        "Biological Sciences"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry Coaching",
+      "duration": "Academic Year",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Organic Chemistry",
+        "Inorganic Chemistry",
+        "Physical Chemistry",
+        "Analytical Chemistry"
+      ]
+    },
+    {
+      "id": "school",
+      "name": "Class VIII–X Science",
+      "duration": "Academic Year",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Biology",
+        "Chemistry",
+        "General Science"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Dedication to Biology Faculty",
+      "subject": "Biology",
+      "qualification": "Experienced Biology Faculty"
+    },
+    {
+      "name": "Pankaj Sir",
+      "subject": "Physics",
+      "qualification": "Experienced Physics Faculty"
+    },
+    {
+      "name": "Dedication to Biology Faculty",
+      "subject": "Chemistry",
+      "qualification": "Experienced Chemistry Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Devi Saha",
+      "result": "NEET Preparation",
+      "quote": "The faculty makes learning engaging while regular evaluations help students track their progress."
+    },
+    {
+      "name": "Soumyadeep Sadhukhan",
+      "result": "JEE Physics",
+      "quote": "The teaching approach made difficult concepts easier to understand and helped build greater confidence in Physics."
+    },
+    {
+      "name": "Student Review",
+      "result": "Medical Entrance Preparation",
+      "quote": "Concept clarification, doubt sessions and proper guidance make the preparation more focused."
+    }
+  ],
+  "contact": {
+    "address": "Bina Pani Bhavan, 1st Floor, Near Subhash Nagar 4 Point Crossing Auto Stand, Subhash Nagar, Durganagar, Kolkata, West Bengal 700065",
+    "phone": "+91 96061 68712",
+    "whatsapp": "+91 96061 68712",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Dedication+to+Biology+Bina+Pani+Bhavan+Subhash+Nagar+Durganagar+Kolkata+700065&output=embed"
+  }
+}

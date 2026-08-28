@@ -1,0 +1,123 @@
+{
+  "instituteName": "Sure Success Educational Hub",
+  "tagline": "Personalized academic and competitive exam coaching in Salt Lake",
+  "city": "Kolkata",
+  "logoText": "SS",
+  "theme": {
+    "colorPrimary": "#5A2633",
+    "colorPrimaryDark": "#351720",
+    "colorAccent": "#D3A24C",
+    "colorHighlight": "#2E7D72",
+    "colorInk": "#282427",
+    "colorPaper": "#F8F3EA",
+    "colorMuted": "#716B68",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "SCHOOL • COLLEGE • COMPETITIVE",
+    "rankExam": "Academic & Competitive Exam Preparation",
+    "headline": "The right guidance can change how you learn.",
+    "subhead": "Personalized coaching, experienced faculty, regular evaluation and a supportive learning environment for school, college and competitive-exam students.",
+    "stats": [
+      { "label": "Established", "value": "2012" },
+      { "label": "Justdial Rating", "value": "4.6 / 5" },
+      { "label": "Reviews", "value": "178" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "school",
+      "name": "School Academic Coaching",
+      "duration": "Academic Year",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "English",
+        "Social Studies"
+      ]
+    },
+    {
+      "id": "competitive",
+      "name": "Competitive Exam Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "General Knowledge",
+        "English"
+      ]
+    },
+    {
+      "id": "jee",
+      "name": "JEE Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "higher-education",
+      "name": "B.Com & BBA Support",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Accounts",
+        "Business Studies",
+        "Commerce",
+        "Management"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "A. Saha",
+      "subject": "Academic & Competitive Preparation",
+      "qualification": "Experienced Faculty"
+    },
+    {
+      "name": "Subject Faculty",
+      "subject": "Mathematics & Science",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Subject Faculty",
+      "subject": "Commerce & Accounts",
+      "qualification": "Experienced Teaching Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "Academic Improvement",
+      "quote": "The teachers are approachable, supportive and give students personal attention throughout their preparation."
+    },
+    {
+      "name": "Student Review",
+      "result": "School Preparation",
+      "quote": "Regular tests and assignments helped build confidence and improve performance in Science and Mathematics."
+    },
+    {
+      "name": "Student Review",
+      "result": "Competitive Preparation",
+      "quote": "The faculty is experienced and cooperative, with a learning environment that makes it easier to ask questions and clear doubts."
+    }
+  ],
+  "contact": {
+    "address": "Building No. BE-87, Cap Camp Island, Salt Lake City, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "phone": "+91 85119 13948",
+    "whatsapp": "+91 85119 13948",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Sure+Success+Educational+Hub+BE-87+Salt+Lake+Sector+1+Kolkata+700064&output=embed"
+  }
+}

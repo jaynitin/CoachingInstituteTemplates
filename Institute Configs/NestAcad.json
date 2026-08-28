@@ -1,0 +1,105 @@
+{
+  "instituteName": "Nest Career Academy",
+  "tagline": "Focused academic coaching for students in New Town, Kolkata",
+  "city": "Kolkata",
+  "logoText": "NCA",
+  "theme": {
+    "colorPrimary": "#4B2E5F",
+    "colorPrimaryDark": "#2D1B3D",
+    "colorAccent": "#D9A441",
+    "colorHighlight": "#C65D4B",
+    "colorInk": "#29252D",
+    "colorPaper": "#F7F3F8",
+    "colorMuted": "#706A75",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "ACADEMICS • TUTORIALS",
+    "rankExam": "School & Competitive Preparation",
+    "headline": "A stronger foundation today. A brighter result tomorrow.",
+    "subhead": "Focused classroom learning, smaller batches, study support and regular assessments designed to give students the attention they need to improve.",
+    "stats": [
+      { "label": "Established", "value": "2019" },
+      { "label": "Student Rating", "value": "4.5 / 5" },
+      { "label": "Learning Format", "value": "Online + Offline" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "school",
+      "name": "School Academic Coaching",
+      "duration": "Academic Year",
+      "batchSize": "Smaller batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "English"
+      ]
+    },
+    {
+      "id": "competitive",
+      "name": "Competitive Exam Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Smaller batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "General Knowledge",
+        "English"
+      ]
+    },
+    {
+      "id": "tutorial",
+      "name": "Subject-Wise Tutorials",
+      "duration": "Course dependent",
+      "batchSize": "Smaller batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "English",
+        "General Studies"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Nest Career Academy Faculty",
+      "subject": "Academic Preparation",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Subject Faculty",
+      "subject": "Mathematics & Science",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Subject Faculty",
+      "subject": "English & General Studies",
+      "qualification": "Experienced Teaching Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "Academic Preparation",
+      "quote": "The academy focuses on keeping batches manageable so students can receive more individual attention."
+    },
+    {
+      "name": "Student Review",
+      "result": "Tutorial Support",
+      "quote": "Regular assessments and study support help students stay consistent with their preparation."
+    }
+  ],
+  "contact": {
+    "address": "Action Area III, Behind Downtown Mall, Canal Bank Road, Patharghata, New Town, Kolkata, West Bengal 700135",
+    "phone": "Contact institute",
+    "whatsapp": "Contact institute",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Nest+Career+Academy+Canal+Bank+Road+Patharghata+Newtown+Kolkata+700135&output=embed"
+  }
+}

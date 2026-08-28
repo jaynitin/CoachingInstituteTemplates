@@ -1,0 +1,140 @@
+{
+  "instituteName": "Vidyalakshmi Career Academy",
+  "tagline": "Career-focused education, professional training & competitive coaching",
+  "city": "Baruipur",
+  "logoText": "VC",
+  "theme": {
+    "colorPrimary": "#185C4A",
+    "colorPrimaryDark": "#0E3B30",
+    "colorAccent": "#D5A447",
+    "colorHighlight": "#C95D50",
+    "colorInk": "#202B28",
+    "colorPaper": "#F5F7F1",
+    "colorMuted": "#66756F",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "NURSING • PARAMEDICAL • CAREERS",
+    "rankExam": "Professional & Competitive Education",
+    "headline": "Learn today. Build the skills for your career tomorrow.",
+    "subhead": "Career-focused education with professional training, entrance coaching, academic guidance and admission support for students pursuing healthcare, technical and competitive-career pathways.",
+    "stats": [
+      { "label": "Established", "value": "2010" },
+      { "label": "Justdial Rating", "value": "4.8 / 5" },
+      { "label": "Ratings", "value": "148+" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "nursing",
+      "name": "Nursing Courses",
+      "duration": "Course dependent",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "ANM",
+        "GNM",
+        "B.Sc Nursing",
+        "Nursing Entrance Preparation"
+      ]
+    },
+    {
+      "id": "paramedical",
+      "name": "Paramedical Courses",
+      "duration": "Course dependent",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "DMLT",
+        "DPT",
+        "Assistant Nursing",
+        "Other Paramedical Programs"
+      ]
+    },
+    {
+      "id": "competitive",
+      "name": "Competitive Exam Coaching",
+      "duration": "Course dependent",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Banking",
+        "Railway",
+        "SSC",
+        "WBCS"
+      ]
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering & Entrance Coaching",
+      "duration": "Course dependent",
+      "batchSize": "Structured batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "JEE",
+        "WBJEE",
+        "JEXPO",
+        "Mathematics",
+        "Physics",
+        "Chemistry"
+      ]
+    },
+    {
+      "id": "admission",
+      "name": "Admission & Career Guidance",
+      "duration": "Course dependent",
+      "batchSize": "Individual Guidance",
+      "fee": "Contact institute",
+      "subjects": [
+        "Nursing Admissions",
+        "Pharmacy Admissions",
+        "Paramedical Admissions",
+        "Engineering Admissions",
+        "Management Admissions"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Vidyalakshmi Faculty",
+      "subject": "Nursing & Healthcare Education",
+      "qualification": "Experienced Professional Faculty"
+    },
+    {
+      "name": "Vidyalakshmi Faculty",
+      "subject": "Paramedical Studies",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Vidyalakshmi Faculty",
+      "subject": "Competitive Examination Preparation",
+      "qualification": "Experienced Competitive Exam Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "Nursing Admission",
+      "quote": "The institute provided helpful guidance throughout the admission process and made the overall experience easier to navigate."
+    },
+    {
+      "name": "Student Review",
+      "result": "Paramedical Training",
+      "quote": "The faculty is supportive and the institute provides a good learning environment with useful facilities."
+    },
+    {
+      "name": "Student Review",
+      "result": "Competitive Exam Preparation",
+      "quote": "The teachers are friendly and supportive, with regular guidance and a focused approach to competitive preparation."
+    }
+  ],
+  "contact": {
+    "address": "Arup Bhadra Sarani, Near Masketius Club, Subuddhipur, Baruipur, West Bengal 700144",
+    "phone": "+91 99722 47349",
+    "whatsapp": "+91 99722 47349",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Vidyalakshmi+Arup+Bhadra+Sarani+Subuddhipur+Baruipur+700144&output=embed"
+  }
+}

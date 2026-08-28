@@ -1,0 +1,138 @@
+{
+  "instituteName": "Breakspace",
+  "tagline": "Personalized coaching for CAT, GMAT & competitive exams",
+  "city": "Kolkata",
+  "logoText": "BS",
+  "theme": {
+    "colorPrimary": "#302B4A",
+    "colorPrimaryDark": "#1D1A2E",
+    "colorAccent": "#D7A84A",
+    "colorHighlight": "#48A999",
+    "colorInk": "#25232D",
+    "colorPaper": "#F6F4EF",
+    "colorMuted": "#6E6A76",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "CAT • GMAT • MBA",
+    "rankExam": "MBA & Competitive Exam Preparation",
+    "headline": "Turn preparation into a clear path to your dream B-school.",
+    "subhead": "Personalized mentoring, focused classroom sessions, comprehensive mock analysis and one-to-one guidance for aspirants targeting top management and competitive examinations.",
+    "stats": [
+      { "label": "Established", "value": "2011" },
+      { "label": "Justdial Rating", "value": "4.8 / 5" },
+      { "label": "Batch Style", "value": "Small Batches" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "cat",
+      "name": "CAT Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Data Interpretation",
+        "Logical Reasoning",
+        "Verbal Ability",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "id": "gmat",
+      "name": "GMAT Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Reasoning",
+        "Verbal Reasoning",
+        "Data Insights"
+      ]
+    },
+    {
+      "id": "mba-entrance",
+      "name": "MBA Entrance Exams",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "id": "banking",
+      "name": "Banking & Competitive Exams",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "General Awareness"
+      ]
+    },
+    {
+      "id": "gd-pi",
+      "name": "GD • PI • WAT Preparation",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Group Discussion",
+        "Personal Interview",
+        "Written Ability",
+        "Communication Skills",
+        "Current Affairs"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Breakspace Faculty",
+      "subject": "Quantitative Aptitude & Data Interpretation",
+      "qualification": "IIT/IIM Alumni Faculty"
+    },
+    {
+      "name": "Breakspace Faculty",
+      "subject": "Verbal Ability & Communication",
+      "qualification": "Experienced Management Entrance Faculty"
+    },
+    {
+      "name": "Breakspace Mentors",
+      "subject": "GD, PI & WAT",
+      "qualification": "Experienced Admissions & B-School Mentors"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "CAT / GMAT Preparation",
+      "quote": "Personalized mentoring and individual attention make the preparation much more focused."
+    },
+    {
+      "name": "Student Review",
+      "result": "MBA Entrance Preparation",
+      "quote": "The faculty provides detailed guidance and helps students understand where they need to improve."
+    },
+    {
+      "name": "Student Review",
+      "result": "Competitive Exam Preparation",
+      "quote": "The small batches and one-to-one doubt sessions create a more personalized learning experience."
+    }
+  ],
+  "contact": {
+    "address": "Unit 803, 8th Floor, Tower 2, PS Srijan Corporate Park, GP Block, Sector V, Salt Lake, Kolkata, West Bengal 700091",
+    "phone": "+91 88401 70291",
+    "whatsapp": "+91 98319 39136",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Breakspace+PS+Srijan+Corporate+Park+Tower+2+Sector+V+Salt+Lake+Kolkata&output=embed"
+  }
+}

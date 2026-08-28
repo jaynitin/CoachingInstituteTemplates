@@ -1,0 +1,127 @@
+{
+  "instituteName": "Nucleus",
+  "tagline": "IX–XII boards, JEE & NEET preparation with focused academic guidance",
+  "city": "Kolkata",
+  "logoText": "NX",
+  "theme": {
+    "colorPrimary": "#202C3C",
+    "colorPrimaryDark": "#111923",
+    "colorAccent": "#55C2D8",
+    "colorHighlight": "#A6C93A",
+    "colorInk": "#1D2730",
+    "colorPaper": "#F3F6F4",
+    "colorMuted": "#68747C",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "IX–XII • JEE • NEET",
+    "rankExam": "Board & Competitive Exam Preparation",
+    "headline": "Strong concepts. Focused preparation. Better outcomes.",
+    "subhead": "Academic coaching for Classes IX–XII with focused preparation for board examinations, JEE and NEET, backed by subject guidance and consistent practice.",
+    "stats": [
+      { "label": "Google Rating", "value": "4.9 / 5" },
+      { "label": "Reviews", "value": "200+" },
+      { "label": "Core Focus", "value": "IX–XII" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "boards",
+      "name": "Class IX–XII Board Preparation",
+      "duration": "Academic Year",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology"
+      ]
+    },
+    {
+      "id": "jee",
+      "name": "JEE Main + Advanced",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "neet",
+      "name": "NEET UG",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    },
+    {
+      "id": "foundation",
+      "name": "Foundation Programme",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Nucleus Faculty",
+      "subject": "Physics",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Nucleus Faculty",
+      "subject": "Chemistry",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Nucleus Faculty",
+      "subject": "Mathematics",
+      "qualification": "Experienced Teaching Faculty"
+    },
+    {
+      "name": "Nucleus Faculty",
+      "subject": "Biology",
+      "qualification": "Experienced Teaching Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "JEE / NEET Preparation",
+      "quote": "A focused environment for students preparing for boards as well as competitive examinations."
+    },
+    {
+      "name": "Student Review",
+      "result": "Class IX–XII",
+      "quote": "The teachers provide subject-focused guidance and help students build stronger fundamentals."
+    },
+    {
+      "name": "Student Review",
+      "result": "Academic Preparation",
+      "quote": "The academy combines regular academic support with focused preparation for competitive examinations."
+    }
+  ],
+  "contact": {
+    "address": "Joy Matadi Apartment, 90/1 G.B. Road, Opposite Khosla Electronics, B.L.D. Bagan, Nagerbazar, Kolkata, West Bengal 700028",
+    "phone": "+91 70233 78496",
+    "whatsapp": "+91 70233 78496",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Nucleus+90%2F1+GB+Road+Khosla+Electronics+Nagerbazar+Kolkata+700028&output=embed"
+  }
+}

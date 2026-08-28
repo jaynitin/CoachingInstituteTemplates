@@ -1,0 +1,91 @@
+{
+  "instituteName": "Mivigyan Academy",
+  "tagline": "Focused JEE, NEET & foundation coaching in Kolkata",
+  "city": "Kolkata",
+  "logoText": "MA",
+  "theme": {
+    "colorPrimary": "#1B2A4A",
+    "colorPrimaryDark": "#101B30",
+    "colorAccent": "#E8A33D",
+    "colorHighlight": "#C0392B",
+    "colorInk": "#1F2933",
+    "colorPaper": "#F7F5EF",
+    "colorMuted": "#5C6B7A",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "JEE • NEET",
+    "rankExam": "JEE Main • JEE Advanced • NEET",
+    "headline": "Build the concepts. Master the problems. Clear the exam.",
+    "subhead": "Personalized coaching, limited batches, regular tests, study material, and individual guidance for serious JEE, NEET and foundation aspirants.",
+    "stats": [
+      { "label": "Established", "value": "2016" },
+      { "label": "Class Modes", "value": "Online + Offline" },
+      { "label": "Core Exams", "value": "JEE + NEET" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "jee",
+      "name": "JEE Main + Advanced",
+      "duration": "1–2 Years",
+      "batchSize": "Limited batches",
+      "fee": "₹1,20,000 / year",
+      "subjects": ["Physics", "Chemistry", "Mathematics"]
+    },
+    {
+      "id": "neet",
+      "name": "NEET UG",
+      "duration": "1–2 Years",
+      "batchSize": "Limited batches",
+      "fee": "₹1,20,000 / year",
+      "subjects": ["Physics", "Chemistry", "Biology"]
+    },
+    {
+      "id": "foundation",
+      "name": "Foundation Course",
+      "duration": "1 Year",
+      "batchSize": "Limited batches",
+      "fee": "₹96,000 / year",
+      "subjects": ["Physics", "Chemistry", "Mathematics", "Biology"]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Giren Chandra Roy",
+      "subject": "Chemistry",
+      "qualification": "Founder & Chemistry Faculty"
+    },
+    {
+      "name": "Deba Prasad Sinha",
+      "subject": "Mathematics",
+      "qualification": "Senior Mathematics Guide"
+    },
+    {
+      "name": "Gopal Roy",
+      "subject": "Faculty",
+      "qualification": "Experienced Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Student Review",
+      "result": "JEE / NEET Preparation",
+      "quote": "The teachers are knowledgeable and experienced, and the academy provides personal attention and regular guidance."
+    },
+    {
+      "name": "Student Review",
+      "result": "Academic Improvement",
+      "quote": "The dedicated instructors and small class size provide a positive learning environment with regular assessments."
+    }
+  ],
+  "contact": {
+    "address": "Shapoorji Housing Complex, Newtown, Kolkata, West Bengal 700135",
+    "phone": "+91 91635 83293",
+    "whatsapp": "+91 79802 08090",
+    "email": "girencroy@gmail.com",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Mivigyan+Academy+Shapoorji+Housing+Complex+Newtown+Kolkata&output=embed"
+  }
+}

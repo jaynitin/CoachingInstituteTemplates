@@ -1,0 +1,138 @@
+{
+  "instituteName": "Shortcut Maths",
+  "tagline": "Master the maths. Save time. Crack competitive exams.",
+  "city": "Kolkata",
+  "logoText": "SM",
+  "theme": {
+    "colorPrimary": "#252A52",
+    "colorPrimaryDark": "#151832",
+    "colorAccent": "#F19A3E",
+    "colorHighlight": "#25A9B8",
+    "colorInk": "#20242F",
+    "colorPaper": "#F5F6F2",
+    "colorMuted": "#687080",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "CAT • SSC • BANK • RAILWAY",
+    "rankExam": "Competitive Exam Preparation",
+    "headline": "Solve faster. Think smarter. Get exam-ready.",
+    "subhead": "Competitive exam coaching built around strong fundamentals, time-saving mathematical techniques, regular mock tests, expert guidance and personalised doubt solving.",
+    "stats": [
+      { "label": "Students Guided", "value": "5000+" },
+      { "label": "Google Rating", "value": "4.8 / 5" },
+      { "label": "Core Exams", "value": "CAT • SSC • BANK" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "cat",
+      "name": "CAT / MBA Entrance",
+      "duration": "6–12 Months",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Data Interpretation",
+        "Logical Reasoning",
+        "Verbal Ability",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "id": "ssc",
+      "name": "SSC CGL / CHSL / MTS",
+      "duration": "6–12 Months",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "General Intelligence",
+        "English",
+        "General Awareness"
+      ]
+    },
+    {
+      "id": "bank",
+      "name": "Banking Exams",
+      "duration": "3–9 Months",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "General Awareness"
+      ]
+    },
+    {
+      "id": "railway",
+      "name": "Railway Exams",
+      "duration": "4–8 Months",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "General Awareness",
+        "General Science"
+      ]
+    },
+    {
+      "id": "government",
+      "name": "WBCS & Government Exams",
+      "duration": "Course dependent",
+      "batchSize": "Focused batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "General Studies",
+        "Mathematics",
+        "Reasoning",
+        "Current Affairs"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Shortcut Maths Faculty",
+      "subject": "Quantitative Aptitude & Mathematics",
+      "qualification": "Experienced Competitive Exam Faculty"
+    },
+    {
+      "name": "Shortcut Maths Faculty",
+      "subject": "Reasoning & Data Interpretation",
+      "qualification": "Experienced Competitive Exam Faculty"
+    },
+    {
+      "name": "Shortcut Maths Faculty",
+      "subject": "English & General Awareness",
+      "qualification": "Experienced Competitive Exam Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rahul Banerjee",
+      "result": "SSC CGL 2024",
+      "quote": "The shortcut techniques helped me solve quantitative questions faster and gave me more confidence during the exam."
+    },
+    {
+      "name": "Priya Sharma",
+      "result": "IBPS PO 2024",
+      "quote": "The personalised attention and regular practice made a major difference to my preparation."
+    },
+    {
+      "name": "Arjun Das",
+      "result": "CAT 2024",
+      "quote": "The approach to VARC and DILR helped me improve my preparation and perform with greater confidence."
+    }
+  ],
+  "contact": {
+    "address": "22C/1A, Santi Pally, Opposite KPC Medical College, Jadavpur, Kolkata, West Bengal 700032",
+    "phone": "+91 98044 90328",
+    "whatsapp": "+91 98044 90328",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Shortcut+Maths+22C%2F1A+Santi+Pally+Jadavpur+Kolkata+700032&output=embed"
+  }
+}

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #1B2A4A;
+  --color-primary-dark: #101B30;
+  --color-accent: #E8A33D;
+  --color-highlight: #C0392B;
+  --color-ink: #1F2933;
+  --color-paper: #F7F5EF;
+  --color-muted: #5C6B7A;
+  --font-display: 'Source Serif 4', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+.perforated {
+  background-image: radial-gradient(circle, var(--color-paper) 3px, transparent 3px);
+  background-size: 14px 14px;
+  background-position: -7px center;
+}
