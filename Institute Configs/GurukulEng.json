@@ -1,0 +1,141 @@
+{
+  "instituteName": "Gurukul English Coaching Centre",
+  "tagline": "Build stronger English. Learn with confidence. Achieve more.",
+  "city": "Kolkata",
+  "logoText": "GE",
+  "theme": {
+    "colorPrimary": "#263B56",
+    "colorPrimaryDark": "#172638",
+    "colorAccent": "#D9A04A",
+    "colorHighlight": "#D56A5D",
+    "colorInk": "#202A35",
+    "colorPaper": "#F7F4EE",
+    "colorMuted": "#697582",
+    "fontDisplay": "'Source Serif 4', serif",
+    "fontBody": "'Inter', sans-serif",
+    "fontMono": "'IBM Plex Mono', monospace"
+  },
+  "hero": {
+    "rankBadge": "ENGLISH • SCHOOL • EXAMS",
+    "rankExam": "English & Academic Coaching",
+    "headline": "Find your voice. Strengthen your English. Reach your goals.",
+    "subhead": "Personalized English coaching with clear explanations, practical practice and supportive guidance for school students, communication learners and competitive-exam aspirants.",
+    "stats": [
+      { "label": "Established", "value": "2012" },
+      { "label": "Justdial Rating", "value": "5.0 / 5" },
+      { "label": "Ratings", "value": "70+" }
+    ]
+  },
+  "courses": [
+    {
+      "id": "english",
+      "name": "English Language & Grammar",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Grammar",
+        "Vocabulary",
+        "Reading",
+        "Writing",
+        "Speaking"
+      ]
+    },
+    {
+      "id": "spoken-english",
+      "name": "Spoken English & Communication",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Spoken English",
+        "Communication Skills",
+        "Vocabulary",
+        "Pronunciation",
+        "Conversation Practice"
+      ]
+    },
+    {
+      "id": "school",
+      "name": "School English Coaching",
+      "duration": "Academic Year",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "English Language",
+        "Grammar",
+        "Literature",
+        "Writing",
+        "Comprehension"
+      ]
+    },
+    {
+      "id": "competitive",
+      "name": "Competitive Exam English",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "English Grammar",
+        "Vocabulary",
+        "Reading Comprehension",
+        "Verbal Ability",
+        "Practice Tests"
+      ]
+    },
+    {
+      "id": "general",
+      "name": "Academic & Competitive Coaching",
+      "duration": "Course dependent",
+      "batchSize": "Small batches",
+      "fee": "Contact for fee",
+      "subjects": [
+        "Mathematics",
+        "Civil Services",
+        "General Studies",
+        "Exam Preparation"
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Gurukul Faculty",
+      "subject": "English Language & Grammar",
+      "qualification": "Experienced English Faculty"
+    },
+    {
+      "name": "Gurukul Faculty",
+      "subject": "Spoken English & Communication",
+      "qualification": "Experienced Language Faculty"
+    },
+    {
+      "name": "Gurukul Faculty",
+      "subject": "Mathematics & Academic Subjects",
+      "qualification": "Experienced Teaching Faculty"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sangati Bhula",
+      "result": "English Language Improvement",
+      "quote": "The teaching is clear, engaging and patient, with noticeable improvement in grammar, vocabulary and speaking confidence."
+    },
+    {
+      "name": "Student Review",
+      "result": "English Coaching",
+      "quote": "The teacher explains concepts clearly and creates a friendly learning environment that encourages students to improve."
+    },
+    {
+      "name": "Student Review",
+      "result": "Academic Preparation",
+      "quote": "The classes are well organized, supportive and focused on making difficult concepts easier to understand."
+    }
+  ],
+  "contact": {
+    "address": "D38, Sukanta Nagar High School, Sukanta Nagar, Salt Lake City Sector 4, Kolkata, West Bengal 700091",
+    "phone": "+91 81005 20365",
+    "whatsapp": "+91 81005 20365",
+    "email": "Contact institute",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Gurukul+English+Coaching+Centre+D38+Sukanta+Nagar+Salt+Lake+Sector+4+Kolkata+700091&output=embed"
+  }
+}
